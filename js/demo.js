@@ -36,9 +36,10 @@ $('#top-1').click(function () {
 // Handle: Example 2 click function
 $('#top-2').click(function () {
     $.kast({
-        host: 'bogor.nagaswarafm.com',
-        port: 8088,
+        host: 'live.sg.radiobintangtenggara.com',
+        port: 9560,
         betaProxies: true,
+        directStreamURL: 'https://castprox.herokuapp.com/http://live.sg.radiobintangtenggara.com:9560/rbtfm',
         mobileCare: false,
         irrelevantWords: false,
         defaultArtwork: ['https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/e9/38/24/e938243e-d983-db13-803e-f165e3a2057f/source/512x512bb.jpg'],
