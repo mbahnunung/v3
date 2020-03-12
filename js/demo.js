@@ -19,11 +19,12 @@ $('.card-content').click(function () {
 // Handle: Example 1 click function
 $('#top-1').click(function () {
     $.kast({
-        host: 'sonic-mercury.wlservices.org',
-        port: 4000,
+        host: 'live.radiobintangtenggara.com',
+        port: 8000,
         protocol: 'https',
-        version: 1,
+        version: 2,
         betaProxies: true,
+        directStreamURL: 'https://castprox.herokuapp.com/http://live.radiobintangtenggara.com:8000/mbahnunungonline'
         irrelevantWords: false,
         defaultArtwork: ['https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/e9/38/24/e938243e-d983-db13-803e-f165e3a2057f/source/512x512bb.jpg'],
         colors: 'dynamic',
@@ -48,7 +49,7 @@ $('#top-2').click(function () {
         ui: 'colored',
         //serverInfo: ['servergenre', 'servertitle'],
         autoPlay: true,
-        continuous: false
+        continuous: true
     })
 })
 
