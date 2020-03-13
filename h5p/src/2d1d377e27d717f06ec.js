@@ -3,8 +3,8 @@
         // please add your options (host, port, version, etc..)
         // read the docs for more available options
         $.kast({
-        host: 'live.sg.radiobintangtenggara.com',
-        port: 9560,
+        host: '206.190.130.182',
+        port: 8142,
         protocol: 'http',
         version: 2, // SHOUTcast Version @integer
         sid: 1, // Server stream ID (If you have multiple SHOUTcast V2 stations) @integer
