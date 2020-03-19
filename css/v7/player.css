@@ -1,0 +1,16 @@
+html,body {
+	height:100%;
+	margin: 0;
+	padding: 0;
+}
+#player {
+	width:100%;
+	height:100%;
+}
+.jw-featured {
+	display : none !important;
+}
+
+.jw-icon-prev,.jw-icon-next,.jw-icon-playlist {
+	display : none !important
+}
