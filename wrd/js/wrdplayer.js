@@ -1,4 +1,4 @@
-/*! iCast - Shoutcast & Icecast Web Player v1.2 - (c) 2018, Diego Navarro [dgone1988@gmail.com] */
+/*! iCast - Shoutcast & Icecast Web Player v1.2 - (c) 2018, Diego Navarro */
 (function ($) {
     "use strict";
 	$(".icast").append('');
@@ -12,7 +12,7 @@
 			type: "/;type=mp3",
             streampath: "/stream?icy=http",			
 			enable_cors: false,
-			cors: "https://rbtfm.herokuapp.com",			
+			cors: "https://sertanejapop.herokuapp.com",			
 			artwork: true,
             logo: "../img/logo.jpg",
 			servertitle: "My Radio Title", //For Shoutcast v1 server
