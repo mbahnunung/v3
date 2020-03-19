@@ -1,0 +1,40 @@
+.label {
+		    display: inline-block;
+		    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.1);
+		    font-weight: bold;
+		    font-size: 12px;
+		    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		    color: #ffffff;
+		    text-align: center;
+		    white-space: nowrap;
+		    vertical-align: baseline;
+		    position:absolute;
+		    top:0;
+		    padding:8px 16px;
+		    left:0;
+		    right:0;
+		    background:rgba(80,80,80,0.3);
+		    z-index: 9999;
+		}
+		
+		body {
+			color : #FFF;
+		}
+		
+		
+		
+		.showPSA #title {
+			display : none;
+		}
+		
+		.showTitle #title {
+			display : none;
+		}
+		
+		.showTitle:hover #title {
+			display : block;
+		}
+		
+		.hidden {
+			display : none !important;
+		}
