@@ -12,7 +12,7 @@
         version: 2,
         sid: 1,
         statsPath: 'stats',
-        directStreamURL: 'https://castprox.herokuapp.com/http://live.sg.radiobintangtenggara.com:9560/rbtfm',
+        directStreamURL: 'https://www.rcast.net/proxy/159652.mp3',
         autoUpdate: true,
         autoPlay: true,
         betaProxies: true,
