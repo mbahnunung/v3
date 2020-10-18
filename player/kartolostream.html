@@ -1,0 +1,55 @@
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/lunaradio.min.js?v=1.20.09.09b"></script>
+
+<div style="position:absolute;overflow:hidden;width:100%;height:100%;top:0;left:0;z-index:2">
+ <video autoplay="true" muted="true" loop="true">
+  <source src="clip.mp4" type="video/mp4">
+ </video>
+</div>
+
+<div id="shoutcast" style="width:100%;height:60px;position:absolute;left:0px;top:0px;z-index:300;overflow:hidden;display:block">Loading ...</div>
+
+<!-- <div id="lunaradio" style="width:100%; height:600px;background: #000000 url(/fn_rank.jpg) bottom / cover no-repeat;">Loading ...</div> -->	
+
+
+<script>
+		//https://gist.github.com/jimmywarting/ac1be6ea0297c16c477e17f8fbe51347
+		$("#shoutcast").lunaradio({
+			token: "ZFNWW2FiXlNrV2QgXmdgUx9nYFtoV2RlVyBVYV8=",
+			userinterface: "small", 
+			backgroundcolor: "rgba(14,16,21,1)",
+			fontcolor: "#ffffff",
+			hightlightcolor: "#fa225b", 
+			fontname: "ZCOOL XiaoWei", 
+			googlefont: "ZCOOL+XiaoWei", 
+			fontratio: "0.4", 
+			radioname: "Suara Kartolo", 
+			scroll: "true", 
+			coverimage: "https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg", 
+			coverstyle: "square",
+			usevisualizer: "real", 
+			visualizertype: "8",
+      multicolorvisualizer: "true",
+			itunestoken: "1000lIPN", 
+			metadatatechnic: "corsproxy", 
+			ownmetadataurl: "", 
+			corsproxy: "https://kastproxy-us.herokuapp.com/",
+			usestreamcorsproxy: "true",
+			streamurl: "http://diradio.biru.co.id:8910", 
+			streamtype: "shoutcast2", 
+			icecastmountpoint: "", 
+			radionomyid: "", 
+			radionomyapikey: "",
+			radiojarid: "",  
+			radiocoid: "",
+			shoutcastpath: "/kartolo.mp3?type=http&amp;nocache=377274",
+			shoutcastid: "1", 
+			streamsuffix: "/;", 
+			metadatainterval: "5000", 
+			volume: "90",
+			debug: "false",
+			autoplay: "true",
+			multicolorvisualizer: "true",
+			visualizeropacity: "1.0"
+		});
+	</script>
