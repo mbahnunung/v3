@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-#EXTVLCOPT:http-user-agent=stream
-http://2b.5d63d49f772ce.cloudns.org
+https://livestreaming-google-etslive.vidio.com/live/204/master.m3u8
