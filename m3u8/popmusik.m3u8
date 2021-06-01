@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1344100,RESOLUTION=1280x720
+https://5d63d49f772ce.streamlock.net/popmusik/udp.stream_360p/chunklist_w176140401.m3u8
+
