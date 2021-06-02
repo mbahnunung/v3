@@ -6,4 +6,3 @@
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/05.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1480567,RESOLUTION=640x480,FRAME-RATE=25.000,AUDIO="audio1"
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/04.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1031001,RESOLUTION=480x360,FRAME-RATE=25.000,AUDIO="audio1"
