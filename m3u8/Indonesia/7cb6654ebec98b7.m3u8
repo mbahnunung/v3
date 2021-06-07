@@ -5,7 +5,3 @@
 http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=966591,AVERAGE-BANDWIDTH=878719,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio-AACL-64"
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_480p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_360p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_240p/index.m3u8
