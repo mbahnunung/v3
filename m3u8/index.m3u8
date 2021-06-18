@@ -48,3 +48,5 @@ http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Natgeopeople/playlist.m3u8
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=disco&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=4.2.2.2" group-title="Knowledge", Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zg4YPTD.png?v=1.1.1.1" group-title="Music", Maleo Channel
+https://5d63d49f772ce.streamlock.net/maleo/udp.stream/playlist.m3u8
