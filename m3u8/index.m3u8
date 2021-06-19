@@ -36,6 +36,7 @@ http://cdn4.mbahnunungonline.net/m3u8/id/3f58825fe229a8f.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R2.png?v=1.1.1.1" group-title="Nasional", O Channel
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d4ff175b1e2d419.m3u8
 ########################################## Local ######################################################
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Animal Planet", Animal Planet
 http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo Wild", Nat Geo Wild
@@ -48,6 +49,7 @@ http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Natgeopeople/playlist.m3u8
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=disco&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=4.2.2.2" group-title="Knowledge", Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zg4YPTD.png?v=1.1.1.1" group-title="Music", Maleo Channel
 https://5d63d49f772ce.streamlock.net/maleo/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M1mYRK2.png?v=8.8.4.4" group-title="Music", M2O MUSIC
