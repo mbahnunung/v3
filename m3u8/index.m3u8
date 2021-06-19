@@ -50,3 +50,5 @@ http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=disco&bandwidth=de
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zg4YPTD.png?v=1.1.1.1" group-title="Music", Maleo Channel
 https://5d63d49f772ce.streamlock.net/maleo/udp.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xwLpH34/M2O.png" group-title="Music", M2O MUSIC
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
