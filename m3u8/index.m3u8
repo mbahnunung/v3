@@ -47,6 +47,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/a6e7e966ea5
 #EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/KawOb6q.png?v=1.0.0.1", DAAI TV
 https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
 
+########################################## Knowledge ####################################################
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Animal Planet", Animal Planet
 http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo Wild", Nat Geo Wild
