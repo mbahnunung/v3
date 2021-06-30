@@ -68,6 +68,15 @@ https://5d63d49f772ce.streamlock.net/maleo/udp.stream/playlist.m3u8
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTTfn8YX/MOLATV.png" group-title="Music", MOLATV
 http://ventdelnord.tv:8080/mola/directe.m3u8
+
+########################################## Fashion ######################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQqABbX.png?v=1.0.0.1" group-title="Fashion", FTV Midnight Secrets HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XgrBSh3.png?v=1.0.0.1" group-title="Fashion", Fashion TV HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KIfHBKK.png?v=1.0.0.1" group-title="Fashion", Fashion One
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7MPtGB.png?v=1.0.0.1" group-title="Fashion", Naked News
 http://content.jwplatform.com/manifests/Z9pDgB08.m3u8
 #EXTINF:-1 group-title="Fashion" tvg-logo="https://i.imgur.com/2vhOM7x.jpg?v=1.0.0.1", Emily Bloom
