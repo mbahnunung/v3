@@ -24,8 +24,7 @@ https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-D
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlZqfwV.png?v=1.1.1.1" group-title="Nasional", rtv
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/590642f0a31efa3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jI58JeX.png?v=1.1.1.1" group-title="Nasional", Kompas TV
-#http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/ae5f9d6bcd610b6.m3u8
-https://www.youtube.com/c/kompastv/live
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/874-kompas-tv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EknqlDs.png?v=1.1.1.1" group-title="Nasional", iNews
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sx6ALWu.png?v=1.1.1.1" group-title="Nasional", CNN Indonesia
