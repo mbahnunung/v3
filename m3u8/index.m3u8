@@ -7,9 +7,9 @@ https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8awptZ.png?v=1.1.1.1" group-title="Nasional", antv
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/59CXkNK.png?v=1.1.1.1" group-title="Nasional", Indosiar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BbPufM8.png?v=1.1.1.1" group-title="Nasional", Indosiar
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nki5hJ6.png?v=1.1.1.1" group-title="Nasional", Metro TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=1.1.1.1" group-title="Nasional", Metro TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/6183ec225226ccc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cbr4YGu.png?v=1.1.1.1" group-title="Nasional", Trans7
 https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
@@ -17,11 +17,11 @@ https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS
 https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JM6DM3N.png?v=1.1.1.1" group-title="Nasional", GTV
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lInl1qs.png?v=1.1.1.1" group-title="Nasional", NET.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.1.1.1" group-title="Nasional", NET.
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jsGVEAG.png?v=1.1.1.1" group-title="Nasional", tvOne
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3qPPuYZ.png?v=1.1.1.1" group-title="Nasional", rtv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XlZqfwV.png?v=1.1.1.1" group-title="Nasional", rtv
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/590642f0a31efa3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jI58JeX.png?v=1.1.1.1" group-title="Nasional", Kompas TV
 #http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/ae5f9d6bcd610b6.m3u8
