@@ -81,3 +81,6 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 http://content.jwplatform.com/manifests/Z9pDgB08.m3u8
 #EXTINF:-1 group-title="Fashion" tvg-logo="https://i.imgur.com/2vhOM7x.jpg?v=1.0.0.1", Emily Bloom
 https://content.jwplatform.com/manifests/KXeIME5W.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qepGQMN.png?v=1.1.1.1" group-title="USEETV", Dunia Lain
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=dunialain
