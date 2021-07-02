@@ -53,15 +53,15 @@ https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
 ########################################## Knowledge ####################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Animal Planet", Animal Planet
-http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/AnimalPlanet/playlist.m3u8
+http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo Wild", Nat Geo Wild
-http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Natgeowild/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo", National Geographic Channel
-http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Natgeo/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GXZGEzJ.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo People", Nat Geo People
-http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Natgeopeople/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png?v=4.2.2.2" group-title="Knowledge" tvg-id="DiscoveryChannelHD", Discovery Channel
-http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=disco&bandwidth=default&sync=0
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=disco&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=4.2.2.2" group-title="Knowledge", Discovery Asia
 http://mantul.biz.id:8888/212212/212212/55
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=4.2.2.2" group-title="Knowledge", Smithsonian
@@ -92,6 +92,6 @@ http://content.jwplatform.com/manifests/Z9pDgB08.m3u8
 https://content.jwplatform.com/manifests/KXeIME5W.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s2V9OMG.png?v=1.1.1.1" group-title="USEETV", Dunia Lain
-http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=dunialain
+http://dituduhmaling.xyz//US33T4/MPD/master.m3u8?id=dunialain
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sWG9uSK.png?v=1.0.0.1" group-title="Sports", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
