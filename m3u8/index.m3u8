@@ -64,6 +64,12 @@ http://eu.5d63d49f772ce.cloudns.org:8278/streams/d/Natgeopeople/playlist.m3u8
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=disco&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=4.2.2.2" group-title="Knowledge", Discovery Asia
 http://mantul.biz.id:8888/212212/212212/55
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=4.2.2.2" group-title="Knowledge", Smithsonian
+#https://cdn4.mbahnunungonline.net/m3u8/700a192f4d09363.m3u8
+http://mantul.biz.id:8888/212212/212212/74
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=4.2.2.2" group-title="Knowledge", Love Nature 4K
+#https://cdn4.mbahnunungonline.net/m3u8/9531b610fd12cd9.m3u8
+http://mantul.biz.id:8888/212212/212212/140
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zg4YPTD.png?v=1.1.1.1" group-title="Music", Maleo Channel
 https://stream.ninmedia.tv/maleo/udp.stream/playlist.m3u8
