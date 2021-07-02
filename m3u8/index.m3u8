@@ -22,9 +22,9 @@ https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=1.1.1.1" group-title="Nasional", tvOne
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=1.1.1.1" group-title="Nasional", rtv
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/1561-rtv
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=1.1.1.1" group-title="Nasional", Kompas TV
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/874-kompas-tv
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png?v=1.1.1.1" group-title="Nasional", iNews
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=1.1.1.1" group-title="Nasional", CNN Indonesia
@@ -33,8 +33,6 @@ http://cdn4.mbahnunungonline.net/m3u8/id/d12f0b99ed1f070.m3u8
 http://cdn4.mbahnunungonline.net/m3u8/id/270f72deeb5843f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="Nasional", TVRI
 http://cdn4.mbahnunungonline.net/m3u8/id/3f58825fe229a8f.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R2.png?v=1.1.1.1" group-title="Nasional", O Channel
-http://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/206-ochannel
 
 ########################################## Local ######################################################
 
