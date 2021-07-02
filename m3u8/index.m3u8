@@ -11,15 +11,15 @@ https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=1.1.1.1" group-title="Nasional", Metro TV
 https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=1.1.1.1" group-title="Nasional", Trans 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=1.1.1.1" group-title="Nasional", Trans7
 https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=1.1.1.1" group-title="Nasional", Trans TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=1.1.1.1" group-title="Nasional", TransTV
 https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.1.1.1" group-title="Nasional", GTV
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VgewMth.png?v=1.1.1.1" group-title="Nasional" tvg-id="NET TV", NET.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VgewMth.png?v=1.1.1.1" group-title="Nasional" tvg-id="NET.", NET.
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=1.1.1.1" group-title="Nasional" tvg-id="TV ONE", tvOne
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=1.1.1.1" group-title="Nasional" tvg-id="tvOne", tvOne
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=1.1.1.1" group-title="Nasional", RTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
