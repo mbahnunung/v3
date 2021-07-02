@@ -80,7 +80,7 @@ http://content.jwplatform.com/manifests/Z9pDgB08.m3u8
 #EXTINF:-1 group-title="Fashion" tvg-logo="https://i.imgur.com/2vhOM7x.jpg?v=1.0.0.1", Emily Bloom
 https://content.jwplatform.com/manifests/KXeIME5W.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vvQ08bs1O1k/YAVi9kzFGGI/AAAAAAAAA74/1yHZ21G__u0AqYXPA4uUOxKwX5M-TkmiwCPcBGAYYCw/s0/logo_dunialain.png?v=1.1.1.1" group-title="USEETV", Dunia Lain
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s2V9OMG.png?v=1.1.1.1" group-title="USEETV", Dunia Lain
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=dunialain
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sWG9uSK.png?v=1.0.0.1" group-title="Sports", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
