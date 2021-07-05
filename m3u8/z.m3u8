@@ -319,7 +319,7 @@ http://rr.dens.tv/h/h98/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bMwkQEd.png?v=1.0.0.1" group-title="Kids" tvg-id="Zoomoo", Zoomoo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bMwkQEd.png?v=1.0.0.1" group-title="Kids" tvg-id="Zoo Moo HD", Zoo Moo HD
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qepGQMN.png?v=1.1.1.1" group-title="USEETV", Dunia Lain
