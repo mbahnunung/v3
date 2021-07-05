@@ -69,12 +69,12 @@ https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sRHJJ5c.png?v=1.0.0.1" group-title="Religious", Tawaf TV
 http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/yvU25Cp.png?v=1.1.1.1" group-title="Nasional", JakTV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/4Yk5Anu.png?v=1.0.0.1" group-title="Entertainment", SEA Today
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/QO5Fi9H.png?v=1.1.1.1" group-title="Nasional", Magna Channel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/NxcUbak.png?v=1.1.1.1" group-title="Religious" tvg-id="Muhammadiyah TV", Muhammadiyah TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/NxcUbak.png?v=1.1.1.1" group-title="Religious" tvg-id="TV Mu", TV Mu
 http://stream1.ninmedia.tv:1935/tvmu/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6JSFa.png?v=1.0.0.1" group-title="Entertainment", The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
