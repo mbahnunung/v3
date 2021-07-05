@@ -205,23 +205,23 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiXXYZK.png?v=1.1.1.1" group-title="Knowledge", National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Animal Planet", Animal Planet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHKIztL.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Animal Planet HD", Animal Planet HD
 http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVpnAKn.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Discovery Asia", Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Discovery Channel", Discovery Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWvwPm5.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Discovery Channel HD", Discovery Channel HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo Wild", Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P9yiTz6.png?v=4.2.2.2" group-title="Knowledge" tvg-id="NatGeoWild", Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo", National Geographic Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x0XijCu.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo", National Geographic
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXZGEzJ.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo People", Nat Geo People
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GXZGEzJ.png?v=4.2.2.2" group-title="Knowledge" tvg-id="Nat Geo People HD", Nat Geo People HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
