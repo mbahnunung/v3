@@ -1,93 +1,55 @@
-<html>
-<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>mbah nunung Online High Quality Radio Streaming</title>
-<link href="https://cdn4.mbahnunungonline.net/lbg-audio6-html5-shoutcast_history/audio6_html5_radio_history/audio6_html5.css" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700&#038;ver=4.7.2" rel="stylesheet" type="text/css">
-<script src="https://cdn.jsdelivr.net/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
-<!-- and new libraries to use lastfm -->
-<script src="https://cdn4.mbahnunungonline.net/lbg-audio6-html5-shoutcast_history/audio6_html5_radio_history/js/lastfm.api.md5.js" type="text/javascript"></script>
-<script src="https://cdn4.mbahnunungonline.net/lbg-audio6-html5-shoutcast_history/audio6_html5_radio_history/js/lastfm.api.js" type="text/javascript"></script>
-<script src="https://cdn4.mbahnunungonline.net/lbg-audio6-html5-shoutcast_history/audio6_html5_radio_history/js/lastfm.api.cache.js" type="text/javascript"></script>
-<!-- and new libraries to use lastfm -->						
-<script src="https://cdn4.mbahnunungonline.net/lbg-audio6-html5-shoutcast_history/audio6_html5_radio_history/js/jquery.mousewheel.min.js" type="text/javascript"></script>
-<script src="https://cdn4.mbahnunungonline.net/lbg-audio6-html5-shoutcast_history/audio6_html5_radio_history/js/jquery.touchSwipe.min.js" type="text/javascript"></script>
-<script src="https://cdn4.mbahnunungonline.net/lbg-audio6-html5-shoutcast_history/audio6_html5_radio_history/js/audio6_html5.js" type="text/javascript"></script>
-<script>
-		jQuery(function() {
-			jQuery("#lbg_audio6_html5_shoutcast_2").audio6_html5({
-				radio_stream:"https://castprox.herokuapp.com/http://s4.vinhostmedia.com:8000/streamaac",
-				radio_name:"101.5 VISFM",
-				playerWidth:296,
-				imageHeight:296,
-				skin:"blackControllers",
-				responsive:true,
-				grabLastFmPhoto:true,
-				autoPlay:true,
-				songTitleColor:"#0000CD",
-				authorTitleColor:"#000000",
-				lineSeparatorColor:"#1E90FF",
-				radioStationColor:"#ffffff",
-				frameBehindTextColor:"#FAF0E6",
-				frameBehindButtonsColor:"#1E90FF",
-				sticky:false,
-				startMinified:false,
-				showOnlyPlayButton:false,
-				centerPlayer:true,
-				playerBorderSize:0,
-				playerBorderColor:"#1E90FF",
-				showFacebookBut:false,
-				facebookAppID:"143942399535773",
-				facebookShareTitle:"HTML5 Radio Player With History - Shoutcast and Icecast",
-				facebookShareDescription:"A top-notch responsive HTML5 Radio Player compatible with all major browsers and mobile devices.",
-				facebookShareImage:"",
-				showTwitterBut:true,
-				showVolume:true,
-				showRadioStation:true,
-				showTitle:true,
-				showHistoryBut:false,
-				showHistory:false,
-				showHistoryOnInit:false,
-				translateReadingData:"reading data...",
-				historyTranslate:"HISTORY - latest played songs",
-				historyTitleColor:"#858585",
-				historyBgColor:"#ebebeb",
-				historyRecordBgColor:"transparent",
-				historyRecordBottomBorderColor:"transparent",
-				historyRecordSongColor:"#000000",
-				historyRecordSongBottomBorderColor:"#d0d0d0",
-				historyRecordAuthorColor:"#6d6d6d",
-				numberOfThumbsPerScreen:2,
-				historyPadding:12,
-				historyRecordTitleLimit:25,
-				historyRecordAuthorLimit:36,
-				pathToAjaxFiles:"lbg-audio6-html5-shoutcast_history/audio6_html5_radio_history/",
-				nowPlayingInterval:20,	
-				noImageAvailable:"https://warningfm.github.io/v3/images/no-cover-large.png"
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/lunaradio.min.js?v=1.20.09.09b"></script>
 
-			});
+<div style="position:absolute;overflow:hidden;width:100%;height:100%;top:0;left:0;z-index:2">
+ <video autoplay="true" muted="true" loop="true">
+  <source src="clip.mp4" type="video/mp4">
+ </video>
+</div>
+
+<div id="shoutcast" style="width:100%;height:60px;position:absolute;left:0px;top:0px;z-index:300;overflow:hidden;display:block">Loading ...</div>
+
+<!-- <div id="lunaradio" style="width:100%; height:600px;background: #000000 url(/fn_rank.jpg) bottom / cover no-repeat;">Loading ...</div> -->	
+
+
+<script>
+		//https://gist.github.com/jimmywarting/ac1be6ea0297c16c477e17f8fbe51347
+		$("#shoutcast").lunaradio({
+			token: "ZFNWW2FiXlNrV2QgXmdgUx9nYFtoV2RlVyBVYV8=",
+			userinterface: "small", 
+			backgroundcolor: "rgba(14,16,21,1)",
+			fontcolor: "#ffffff",
+			hightlightcolor: "#fa225b", 
+			fontname: "ZCOOL XiaoWei", 
+			googlefont: "ZCOOL+XiaoWei", 
+			fontratio: "0.4", 
+			radioname: "VIS FM", 
+			scroll: "true", 
+			coverimage: "https://warningfm.github.io/v3/images/1d205655ef29e14a8255c89fe2383a41.jpg", 
+			coverstyle: "square",
+			usevisualizer: "real", 
+			visualizertype: "8",
+			multicolorvisualizer: "true",
+			itunestoken: "1000lIPN", 
+			metadatatechnic: "corsproxy", 
+			ownmetadataurl: "", 
+			corsproxy: "https://simbacast.herokuapp.com/?q=",
+			usestreamcorsproxy: "true",
+			streamurl: "http://s5.alhastream.com:8490", 
+			streamtype: "shoutcast2", 
+			icecastmountpoint: "", 
+			radionomyid: "", 
+			radionomyapikey: "",
+			radiojarid: "",  
+			radiocoid: "",
+			shoutcastpath: "/radio?type=http&amp;nocache=377274",
+			shoutcastid: "1", 
+			streamsuffix: "/;", 
+			metadatainterval: "5000", 
+			volume: "90",
+			debug: "false",
+			autoplay: "true",
+			multicolorvisualizer: "true",
+			visualizeropacity: "1.0"
 		});
-	</script>	
-</head>
-<body style="padding:0px;margin:0px;">
-    
-      <div class="audio6_html5">
-            <audio id="lbg_audio6_html5_shoutcast_2" preload="metadata">
-              No HTML5 audio playback capabilities for this browser. Use <a href="https://www.google.com/intl/en/chrome/browser/">Chrome Browser!</a>    
-            </audio>     
-     </div>
-     
-      <div id="fb-root"></div>
-        <script>(function(d, s, id) {
-         var js, fjs = d.getElementsByTagName(s)[0];
-         if (d.getElementById(id)) return;
-         js = d.createElement(s); js.id = id;
-         js.src = "//connect.facebook.net/id_ID/sdk.js#xfbml=1&appId=143942399535773&version=v2.0";
-         fjs.parentNode.insertBefore(js, fjs);
-       }(document, 'script', 'facebook-jssdk'));</script>
-
-<script>
-</body>
-</html>
+	</script>
