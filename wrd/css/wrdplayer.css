@@ -1,5 +1,5 @@
-@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
-@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700');
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('//fonts.googleapis.com/css?family=Roboto+Condensed:400,700');
 
 .myPlayer {
   font-family: 'Roboto', Arial, Helvetica, sans-serif; 
@@ -51,19 +51,19 @@
 }
 .myPlayer .now-playing {
 	font-size: 18px;
-	color: rgba(255,255,255,0.3);
+	color: rgba(254,0,0);
 	margin-top: 26px;
 }
 .myPlayer .songtitle {
 	font-size: 24px;
 	color: rgba(255,255,255,.7);
-	text-transform: uppercase;
+	text-transform: capitalize;
 	margin-top: 14px;
 }
 .myPlayer .artist-name {
 	font-size: 32px;	
 	color: rgba(255,255,255,1);
-	text-transform: uppercase;
+	text-transform: capitalize;
 	margin-top: 30px;
 }
 .myPlayer .btn-container {
@@ -375,7 +375,7 @@ footer .menu li a:hover {
 	border-radius: 50%;
 }
 .last5-title {
-	text-transform: uppercase;
+	text-transform: capitalize;
     color: #fff;
     letter-spacing: 0.40em;
     font-size: 30px;
@@ -385,7 +385,7 @@ footer .menu li a:hover {
 	text-align: left;
 	padding-left: 92px;
 	padding-top: 23px;
-	text-transform: uppercase;
+	text-transform: capitalize;
 }
 .history-songtitle {
 	max-width: 800px;
@@ -415,5 +415,3 @@ footer .menu li a:hover {
 	top: 0;
 	right: 0;
 }
-
-
