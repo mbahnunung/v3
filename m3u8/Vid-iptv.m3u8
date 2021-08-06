@@ -54,27 +54,27 @@ http://dituduhmaling.xyz/V11710/Smithsonian.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=4.2.2.2" group-title="Knowledge", Love Nature HD
 http://dituduhmaling.xyz/V11710/LoveNature4k.m3u8
 
-#EXTINF:-1 group-title="FREE TO AIR",RCTI
+#EXTINF:-1 group-title="Vision+",RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",MNCTV
+#EXTINF:-1 group-title="Vision+",MNCTV
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",GTV
+#EXTINF:-1 group-title="Vision+",GTV
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",iNEWS
+#EXTINF:-1 group-title="Vision+",iNEWS
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",TRANSTV
+#EXTINF:-1 group-title="Vision+",TRANSTV
 https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",TRANS7
+#EXTINF:-1 group-title="Vision+",TRANS7
 https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",ANTV
+#EXTINF:-1 group-title="Vision+",ANTV
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",INDOSIAR
+#EXTINF:-1 group-title="Vision+",INDOSIAR
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",METRO TV
+#EXTINF:-1 group-title="Vision+",METRO TV
 https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",NET.
+#EXTINF:-1 group-title="Vision+",NET.
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",SCTV
+#EXTINF:-1 group-title="Vision+",SCTV
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/index.m3u8
-#EXTINF:-1 group-title="FREE TO AIR",TVONE
+#EXTINF:-1 group-title="Vision+",TVONE
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/index.m3u8
