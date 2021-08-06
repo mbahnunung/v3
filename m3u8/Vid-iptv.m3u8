@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.1.1.1" group-title="Nasional", RCTI
+http://topwin-tv.my.id/vidio/rcti.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sHsPccL.png?v=1.1.1.1" group-title="Nasional", SCTV
+http://topwin-tv.my.id/vidio/sctv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=1.1.1.1" group-title="Nasional", MNCTV
+http://dituduhmaling.xyz/V11710/MNC.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W47u6m4.png?v=1.1.1.1" group-title="Nasional", antv
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BbPufM8.png?v=1.1.1.1" group-title="Nasional", Indosiar
+http://dituduhmaling.xyz/V11710/Indosiar.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj4S2E4.png?v=1.1.1.1" group-title="Nasional", Metro TV
+http://topwin-tv.my.id/vidio/metrotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTEjMpg.png?v=1.1.1.1" group-title="Nasional", Trans7
+http://topwin-tv.my.id/vidio/trans7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RnrimdT.png?v=1.1.1.1" group-title="Nasional", TransTV
+http://topwin-tv.my.id/vidio/transtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.1.1.1" group-title="Nasional", GTV
+http://dituduhmaling.xyz/V11710/GTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.1.1.1" group-title="Nasional", NET.
+dituduhmaling.xyz/V11710/NET_TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N1yKLa1.png?v=1.1.1.1" group-title="Nasional", tvOne
+http://gpc.my.id/ytlive/tvone.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XlZqfwV.png?v=1.1.1.1" group-title="Nasional", rtv
+http://dituduhmaling.xyz/V11710/RTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=1.1.1.1" group-title="Nasional", Kompas TV
+http://dituduhmaling.xyz/V11710/Kompas.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EknqlDs.png?v=1.1.1.1" group-title="Nasional", iNews
+http://topwin-tv.my.id/vidio/i-news.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=1.1.1.1" group-title="Nasional", CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w749577130_b192000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=1.1.1.1" group-title="Nasional", Berita Satu
+http://topwin-tv.my.id/vidio/beritasatu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="Nasional", TVRI
+http://topwin-tv.my.id/vidio/tvri.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/od0w7R2.png?v=1.1.1.1" group-title="Nasional", O Channel
+http://topwin-tv.my.id/vidio/o-channel.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/60lNdUo.png?v=1.1.1.1" group-title="Nasional", MyTV
+http://topwin-tv.my.id/vidio/mytv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVIQ2o6.png?v=1.1.1.1" group-title="Nasional", NusantaraTV 
+http://topwin-tv.my.id/vidio/nusantaratv.m3u8
+
+########################################## Local ######################################################
+
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/Tj2eF2o.png?v=1.0.0.1", Bali TV
+https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/4P5UM89.png?v=1.0.0.1", JTV
+https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
+#EXTINF:-1 group-title=" Local " tvg-logo="https://i.imgur.com/yvU25Cp.png?v=1.0.0.1", JakTV
+http://dituduhmaling.xyz/V11710/Jaktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5znakl6.png?v=4.2.2.2" group-title="Knowledge", Smithsonian Channel
+http://dituduhmaling.xyz/V11710/Smithsonian.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BzbgaxF.png?v=4.2.2.2" group-title="Knowledge", Love Nature HD
+http://dituduhmaling.xyz/V11710/LoveNature4k.m3u8
+
