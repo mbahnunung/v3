@@ -18,7 +18,7 @@ http://topwin-tv.my.id/vidio/transtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.1.1.1" group-title="Nasional", GTV
 http://dituduhmaling.xyz/V11710/GTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.1.1.1" group-title="Nasional", NET.
-dituduhmaling.xyz/V11710/NET_TV.m3u8
+http://dituduhmaling.xyz/V11710/NET_TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N1yKLa1.png?v=1.1.1.1" group-title="Nasional", tvOne
 http://gpc.my.id/ytlive/tvone.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlZqfwV.png?v=1.1.1.1" group-title="Nasional", rtv
