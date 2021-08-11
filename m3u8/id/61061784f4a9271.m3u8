@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=300100,RESOLUTION=1280x720
-https://video.detik.com/transtv/smil:transtv-live.smil/chunklist_w376058939_b300100_sleng.m3u8
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/29.ts
 #EXT-X-STREAM-INF:BANDWIDTH=196100,RESOLUTION=854x480
-https://video.detik.com/transtv/smil:transtv-live.smil/chunklist_w376058939_b196100_sleng.m3u8
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/29.ts
 #EXT-X-STREAM-INF:BANDWIDTH=172100,RESOLUTION=640x360
-https://video.detik.com/transtv/smil:transtv-live.smil/chunklist_w376058939_b172100_sleng.m3u8
+http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/29.ts
