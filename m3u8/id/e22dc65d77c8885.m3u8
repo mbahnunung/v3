@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=773870,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=490x360
-http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/chunklist_w1600769433.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=788387,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=490x360
+https://stream.ninmedia.tv/maleo/udp.stream_360p/chunklist_w1258680084.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1594149,CODECS="avc1.100.30,mp4a.40.2",RESOLUTION=785x576
-http://stream1.ninmedia.tv:1935/maleo/udp.stream/chunklist_w1427716332.m3u8
+https://stream.ninmedia.tv/maleo/udp.stream/chunklist_w508539549.m3u8
