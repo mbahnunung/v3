@@ -2,11 +2,7 @@
 #EXTM3U x-tvg-url="http://macan.live/xmltv.php?username=epg&password=epg" url-tvg="http://macan.live/xmltv.php?username=epg&password=epg" refresh="3600"
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yIDtEcz.jpg?v=1.1.1.1" group-title="Arab", Dubai TV
-https://dl.dropboxusercontent.com/s/76y0yhgzj2rxkuw/bcc43de11a0e1b3.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XBtbPBF.png?v=1.1.1.1" group-title="Nasional", TVRI
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/RdOrRX2.png?v=1.1.1.1" group-title="Religious", AlQuran Kareem
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/zg4YPTD.png?v=1.1.1.1" group-title="Music", Maleo Channel
@@ -98,6 +94,8 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f7E1ybv.png?v=1.1.1.1" group-title="Arab", Libya 218
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yIDtEcz.jpg?v=1.1.1.1" group-title="Arab", Dubai TV
+https://dl.dropboxusercontent.com/s/76y0yhgzj2rxkuw/bcc43de11a0e1b3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NbRu5c.png?v=1.1.1.1" group-title="Arab", Noor Dubai TV
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ADizGcy.jpg?v=1.1.1.1" group-title="Movies", Dubai One
