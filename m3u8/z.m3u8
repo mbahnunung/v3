@@ -324,7 +324,7 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dunialain
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.0.0.1" group-title="USEETV", Citra Dangdut
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=citradangdut
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="USEETV" tvg-id="SCTV", SCTV
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=sctv
+http://dituduhmaling.xyz/US33T4/sctv.m3u8
 
 #EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/jzE4Vfd.png?v=1.0.0.1", Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
