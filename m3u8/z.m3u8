@@ -303,7 +303,7 @@ https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qepGQMN.png?v=1.1.1.1" group-title="USEETV", Dunia Lain
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=dunialain
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGSb1Vw.png?v=1.0.0.1" group-title="USEETV", Citra Dangdut
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=citradangdut
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=2.0.0.13" group-title="USEETV" tvg-id="SCTV", SCTV
@@ -314,12 +314,3 @@ http://dituduhmaling.xyz/US33T4/sctv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmRhNjM0YjktMTE5MS0zNzhkLTg2ZTQtMzhkZmZkMTcwYmZj
-#EXTINF:-1 group-title="Malaysian Variety" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png", TV1
-http://1.9.62.173/PLTV/88888888/224/3221227769/3221227769.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YzBhNjIxMWMtMDQyOC0zNTM3LTkyZTMtY2Y1YjE2Y2I0MDI0
-#EXTINF:-1 group-title="Test/Snek" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/poster/202003/20200323/20200323031143041kcq_op.jpg", #TanyaSaya S1E2 (1.9.62.158)
-http://1.9.62.158/88888888/16/20200322/268690623/268690623.mpd
