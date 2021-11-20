@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1128000
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=396000
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b396000.m3u8
