@@ -186,11 +186,11 @@ https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.
 
 ########################################################   MalaysiaTV  ########################################################
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-O850LYh6e58/YRNuWegLQBI/AAAAAAAABL8/W9-TMHgiyZk3mGbBXIJO0-0kMXM46581gCLcBGAsYHQ/s0/YoWxeld.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Astro Citra HD", Astro Citra HD
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tWSGYLV7XEY/YRNup60S2EI/AAAAAAAABME/I6I-CKMLmgkww-3EhN8zCukDDi1BsrNHgCLcBGAsYHQ/s0/8BTOxlC.png?v=1.0.0.1" group-title="Malaysia" tvg-id="Astro Awani", Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-O850LYh6e58/YRNuWegLQBI/AAAAAAAABL8/W9-TMHgiyZk3mGbBXIJO0-0kMXM46581gCLcBGAsYHQ/s0/YoWxeld.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Astro Citra HD", Astro Citra HD
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UUJHQ8_az3E/YRNvAjf1BCI/AAAAAAAABMM/beSc5mbUWIsyPyhvYJ7eKQ-AOF9De7_HgCLcBGAsYHQ/s0/clevM5Z.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Astro Oasis HD", Astro Oasis HD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
