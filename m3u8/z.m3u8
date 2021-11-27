@@ -492,12 +492,12 @@ http://rr.dens.tv/h/h98/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/9b088eX.png?v=1.0.0.1" group-title="Sports" tvg-id="beIN Sports 1", beIN Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/9b088eX.png?v=1.0.0.1" group-title="Sports" tvg-id="beIN Sports 1", beIN Sports 1
 https://conversant.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/sy3NbII.png?v=1.0.0.1" group-title="Sports" tvg-id="beIN Sports 2", beIN Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/sy3NbII.png?v=1.0.0.1" group-title="Sports" tvg-id="beIN Sports 2", beIN Sports 2
 https://conversant.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
