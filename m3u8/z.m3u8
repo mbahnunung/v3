@@ -3,7 +3,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MIKxg3_8Zag/YRa7HBr1hNI/AAAAAAAABTQ/FvDF324u9ew4JwRRCpBUyYkT4gdzVYuGwCLcBGAsYHQ/s0/VKAWqEO.png?v=1.1.1.1" group-title="tvN150N" tvg-id="RCTI" tvg-name="RCTI", RCTI
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4vn2eAluQ8E/YaHV_r0OksI/AAAAAAAABbg/LvE4G9XqvFYw6RhmfbSMCK0cdlU4Ls9iwCLcBGAsYHQ/s0/rA0rUsj.png?v=1.1.1.1" group-title="tvN150N" tvg-id="RCTI" tvg-name="RCTI", RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
