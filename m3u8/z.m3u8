@@ -169,19 +169,19 @@ https://ms.digdaya.tv/live/digdayatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fWptaGwAu_4/YROhuhWnZAI/AAAAAAAABOs/EV7vqN3WHnckLRH37Zs7X1G0E8ZESC9SgCLcBGAsYHQ/s0/6FcTok4.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Al Sunnah" tvg-name="Al Sunnah", Al Sunnah
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7JEi9_dcPeg/YROl1qfq_2I/AAAAAAAABPM/Q8pDdzocmoYCSzSB64p4Ll9s4_8IqdfpgCLcBGAsYHQ/s0/nclyzsj.png?v=1.0.0.1" group-title="Arab", Iqraa-Tv
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7JEi9_dcPeg/YROl1qfq_2I/AAAAAAAABPM/Q8pDdzocmoYCSzSB64p4Ll9s4_8IqdfpgCLcBGAsYHQ/s0/nclyzsj.png?v=1.0.0.1" group-title="Arab" tvg-id="Iqraa-Tv" tvg-name="Iqraa-Tv", Iqraa-Tv
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YF73LSe6SHQ/YROmILrBmbI/AAAAAAAABPU/XBoXp3ghoewbWc7RWozxa3CX3aTjiu8YQCLcBGAsYHQ/s0/vUHoMzT.png?v=1.1.1.1" group-title="Arab", Makkah TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YF73LSe6SHQ/YROmILrBmbI/AAAAAAAABPU/XBoXp3ghoewbWc7RWozxa3CX3aTjiu8YQCLcBGAsYHQ/s0/vUHoMzT.png?v=1.1.1.1" group-title="Arab" tvg-id="Makkah TV" tvg-name="Makkah TV", Makkah TV
 https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BpmnnBICvzY/YXPK-Z5QhDI/AAAAAAAABYo/YxZLfoeC5Y4I1VfCC-I9o5_94tDLF2vuwCLcBGAsYHQ/s0/tAqn0hP.png?v=1.0.0.1" group-title="Arab", Saudi TV 1
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BpmnnBICvzY/YXPK-Z5QhDI/AAAAAAAABYo/YxZLfoeC5Y4I1VfCC-I9o5_94tDLF2vuwCLcBGAsYHQ/s0/tAqn0hP.png?v=1.0.0.1" group-title="Arab" tvg-id="Saudi TV 1" tvg-name="Saudi TV 1", Saudi TV 1
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rsx1P2KRtzA/YXPLbPP8mBI/AAAAAAAABYw/zrMwugaPMrsT_7zBHl9wzg4LrqCRWbxOQCLcBGAsYHQ/s0/yIDtEcz.jpg?v=1.1.1.1" group-title="Arab", Dubai TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rsx1P2KRtzA/YXPLbPP8mBI/AAAAAAAABYw/zrMwugaPMrsT_7zBHl9wzg4LrqCRWbxOQCLcBGAsYHQ/s0/yIDtEcz.jpg?v=1.1.1.1" group-title="Arab" tvg-id="Dubai TV" tvg-name="Dubai TV", Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZEmXPKO9S4U/YXPLtFdDq-I/AAAAAAAABY4/K_-kfoVmPKM4tdLO8lgABODAqWrulPx1ACLcBGAsYHQ/s0/6NbRu5c.png?v=1.0.0.1" group-title="Arab", Noor Dubai TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZEmXPKO9S4U/YXPLtFdDq-I/AAAAAAAABY4/K_-kfoVmPKM4tdLO8lgABODAqWrulPx1ACLcBGAsYHQ/s0/6NbRu5c.png?v=1.0.0.1" group-title="Arab" tvg-id="Noor Dubai TV" tvg-name="Noor Dubai TV", Noor Dubai TV
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 
 ########################################################   MalaysiaTV  ########################################################
