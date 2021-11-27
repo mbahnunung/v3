@@ -233,7 +233,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/D3WXba7.png?v=1.0.0.1" group-title="Hindi", B4U Music
-https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/0Y8SVWN.png?v=1.0.0.1" group-title="Hindi", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
@@ -242,19 +242,19 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/4L7BYKM.png?v=1.0.0.1" group-title="Hindi", &PicturesHD
-http://sneh-zee5tv-production.up.railway.app/?c=0-9-tvpictureshd
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/ceBQDFq.png?v=1.0.0.1" group-title="Hindi", Zee TV
-https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/2UQNzYB.png?v=1.0.0.1" group-title="Hindi", Zing
-http://sneh-zee5tv-production.up.railway.app/?c=0-9-zing
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/gSsIODC.png?v=1.0.0.1" group-title="Hindi", Zee Cinema
-https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Akf09tQ.png?v=1.0.0.1" group-title="Hindi", Zee Bollywood
-http://sneh-zee5tv-production.up.railway.app/?c=0-9-zeeclassic
+https://edge.nim.mivo.tv/video/assets/oops.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
