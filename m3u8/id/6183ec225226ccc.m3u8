@@ -1,7 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=464000,RESOLUTION=426x240
-https://edge.medcom.id/live-edge/smil:medcom.smil/chunklist_w724455129_b464000_sleng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=878000,RESOLUTION=640x360
 https://edge.medcom.id/live-edge/smil:medcom.smil/chunklist_w724455129_b878000_sleng.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1128000,RESOLUTION=854x480
