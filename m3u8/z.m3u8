@@ -451,7 +451,7 @@ https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/iXSCr83.png?v=1.0.0.1" group-title="Kids" tvg-id="Nickelodeon" tvg-name="Nickelodeon", Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/p3cqAKM.png?v=1.0.0.1" group-title="Kids" tvg-id="Biznet Kids", B Kids
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/p3cqAKM.png?v=1.0.0.1" group-title="Kids" tvg-id="Biznet Kids" tvg-name="Biznet Kids", B Kids
 https://cdn4.mbahnunungonline.net/m3u8/93b4db526b4e92a.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/zWQ65C4.png?v=1.0.0.1" group-title="Kids" tvg-id="Mykidz" tvg-name="Mykidz", My Kids
