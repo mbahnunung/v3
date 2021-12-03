@@ -479,17 +479,17 @@ https://conversant.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/KkW1uDl.png?v=1.0.0.1" group-title="Sports" tvg-id="MNC Sports" tvg-name="MNC Sports", MNC Sports
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-h0eSiV-HKHQ/YanvV-p7OJI/AAAAAAAABfc/pUaJSEEQ6T0Hh0yOwiCIstipPhVd8V7jACNcBGAsYHQ/s0/KkW1uDl.png?v=1.0.0.1" group-title="Sports" tvg-id="MNC Sports" tvg-name="MNC Sports", MNC Sports
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hZRtYEf.png?v=1.0.0.1" group-title="Sports" tvg-id="Soccer Channel" tvg-name="Soccer Channel", Soccer Channel
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-38P7_ZzUXnA/Yanu94arLTI/AAAAAAAABfU/z_BNBf6vYr8US2oMaZl9NNOhQcvtXEaQgCNcBGAsYHQ/s0/hZRtYEf.png?v=1.0.0.1" group-title="Sports" tvg-id="Soccer Channel" tvg-name="Soccer Channel", Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-NonLiga1/sa_dash_vmx/soccerchannel-NonLiga1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7cLsY1Q.png?v=1.0.0.1" group-title="VISION+" tvg-id="OKTV" tvg-name="OKTV", OKTV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cvjkPbSvkFA/YanuggpdVQI/AAAAAAAABfM/lsfvZP81ZsoObtSVqjpUwTVq2UxXutY6gCNcBGAsYHQ/s0/7cLsY1Q.png?v=1.0.0.1" group-title="VISION+" tvg-id="OKTV" tvg-name="OKTV", OKTV
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
