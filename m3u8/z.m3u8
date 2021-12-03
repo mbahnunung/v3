@@ -163,6 +163,9 @@ http://cdn4.mbahnunungonline.net/m3u8/loc/f9973976ebde68c.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pyNOQeOGBeY/YaHj523tt1I/AAAAAAAABcg/rpjr4x-MhWE_N59Ih48qoQ-HymFmOQv9QCLcBGAsYHQ/s0/EYJ0ED2.png?v=1.0.0.1" group-title="tvN150N", Jakarta Globe News Channel
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4p8f67m47BE/YansoHMN7sI/AAAAAAAABe0/XW6UVQaDxl4sMmfcZT_kavraACbcvGpIwCNcBGAsYHQ/s0/2IyRuk9.png?v=1.0.0.1" group-title="tvN150N" tvg-id="BADAR TV" tvg-name="BADAR TV", BADAR TV
+https://e1.siar.us/badartv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MUeiZKE916Q/YRDRjJY-ERI/AAAAAAAABJU/mhydDat-6L4J7CTt7F8fxBA56qnNafEiwCLcBGAsYHQ/s0/pwxmNpN.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Elshinta TV" tvg-name="Elshinta TV", Elshinta TV
 http://cdn4.mbahnunungonline.net/m3u8/loc/383fb71f4a76ab2.m3u8
 
@@ -504,9 +507,6 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-j5YO1Ej1yh0/YansWFj7ifI/AAAAAAAABes/RC8wcpUiAxMFwz_M7Vcw83nMDX_ohqe-ACNcBGAsYHQ/s0/LCBLk2T.png?v=1.0.0.1" group-title="tvN150N" tvg-id="BN TV" tvg-name="BN TV", BN TV
 http://cdn4.mbahnunungonline.net/m3u8/loc/bntvt2-null.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4p8f67m47BE/YansoHMN7sI/AAAAAAAABe0/XW6UVQaDxl4sMmfcZT_kavraACbcvGpIwCNcBGAsYHQ/s0/2IyRuk9.png?v=1.0.0.1" group-title="tvN150N" tvg-id="BADAR TV" tvg-name="BADAR TV", BADAR TV
-https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-krWxMeHwxrM/YRJC1qPBLiI/AAAAAAAABK8/I6ecPYNF59obT6YQqrDmosB9uVU0QzC-gCLcBGAsYHQ/s0/FGSb1Vw.png?v=1.0.0.1" group-title="Music" tvg-id="Citra Dangdut" tvg-name="Citra Dangdut", Citra Dangdut
 https://edge.nim.mivo.tv/video/assets/oops.m3u8
