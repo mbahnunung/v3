@@ -215,13 +215,13 @@ https://raw.githubusercontent.com/warningfm/v3/master/playlist/dailymotion_php/m
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fkv_-oOSb7E/YXPOxXhLvGI/AAAAAAAABZY/lwrgteqCHicRMwQZR0mkymzDC6LOv16AgCLcBGAsYHQ/s0/f2JzaMd.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV9" tvg-name="TV9", TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-klZZ0QLUvto/YRN042dytQI/AAAAAAAABNM/kXEMDj7OD0ckkMH1prjNb6XGPTyUJ7H0ACLcBGAsYHQ/s0/6fEGqfK.png?v=1.0.0.1" group-title="Singapore" tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia", Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ==&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ=&
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QC5iQ-ZO0Fk/YXZcsXs3DSI/AAAAAAAABZ0/5UaNaIfdy6MnfiqFaivFGMBscz0BeawqACLcBGAsYHQ/s0/MqZdA4W.jpg?v=1.1.1.1" group-title="Singapore", Ch 5
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-klZZ0QLUvto/YRN042dytQI/AAAAAAAABNM/kXEMDj7OD0ckkMH1prjNb6XGPTyUJ7H0ACLcBGAsYHQ/s0/6fEGqfK.png?v=1.0.0.1" group-title="Singapore" tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia", Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 ########################################################     Hindi     ########################################################
 
