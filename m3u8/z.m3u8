@@ -244,23 +244,19 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Zing
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/ceBQDFq.png?v=1.0.0.1" group-title="Hindi", Zee TV
-#http://208.115.215.42/ZEE_Tv_HD_02/index.m3u8
-http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/131612.m3u8
+http://208.115.215.42/ZEE_Tv_HD_02/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/Akf09tQ.png?v=1.0.0.1" group-title="Hindi", Zee Bollywood
 http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/gSsIODC.png?v=1.0.0.1" group-title="Hindi", Zee Cinema
-#http://208.115.215.42/ZEE_CInema_HD/index.m3u8
-http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/194329.m3u8
+http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/4L7BYKM.png?v=8.8.4.4" group-title="Hindi", &PicturesHD
-#http://208.86.19.21:80/705.stream/index.m3u8
-http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/119643.m3u8
+http://208.86.19.21:80/705.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/36Sd3Rt.png?v=1.0.0.1" group-title="Hindi" tvg-id="331" tvg-name="Sony Max", Sony Max
-#http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
-http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/194209.m3u8
+http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 
 ########################################################      News     ########################################################
 
