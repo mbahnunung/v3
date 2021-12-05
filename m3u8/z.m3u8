@@ -256,7 +256,8 @@ http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/194329.m3u8
 http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/119643.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/36Sd3Rt.png?v=1.0.0.1" group-title="Hindi" tvg-id="331" tvg-name="Sony Max", Sony Max
-http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
+#http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
+http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/194209.m3u8
 
 ########################################################      News     ########################################################
 
