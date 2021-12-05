@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-STREAM-INF:BANDWIDTH=380000,NAME="144p"
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/chunklist_b380000_t64MTQ0cA==.m3u8?
+#EXT-X-STREAM-INF:BANDWIDTH=600000,NAME="240p"
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/chunklist_b600000_t64MjQwcA==.m3u8?
+#EXT-X-STREAM-INF:BANDWIDTH=900000,NAME="360p"
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/chunklist_b900000_t64MzYwcA==.m3u8?
+#EXT-X-STREAM-INF:BANDWIDTH=1400000,NAME="480p"
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/chunklist_b1400000_t64NDgwcA==.m3u8?
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,NAME="720p"
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/chunklist_b2800000_t64NzIwcA==.m3u8?
+#EXT-X-STREAM-INF:BANDWIDTH=4700000,NAME="1080p"
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?
