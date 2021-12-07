@@ -147,7 +147,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fsoeW-q-Akk/YY-SbeMeSMI/AAAAAAAABak/qakRm4K29ho1q4Xw_kyEmkAPXBGD-JB4ACLcBGAsYHQ/s0/od0w7R2.png?v=1.0.0.1" group-title="tvN150N" tvg-id="O Channel" tvg-name="O Channel", O Channel HD
-#https://check.ruangwaktu.xyz/ubl/room.php?channel=Ochannel
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-im1wyciwT3A/YRa4drCVz6I/AAAAAAAABTE/qy8luMe5yTowjdCdsuu-m4WVuYlZ226TACLcBGAsYHQ/s0/eLjHSKm.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Nusantara TV" tvg-name="Nusantara TV", NTV
@@ -166,7 +165,6 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MUeiZKE916Q/YRDRjJY-ERI/AAAAAAAABJU/mhydDat-6L4J7CTt7F8fxBA56qnNafEiwCLcBGAsYHQ/s0/pwxmNpN.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Elshinta TV" tvg-name="Elshinta TV", Elshinta TV
-#http://cdn4.mbahnunungonline.net/m3u8/loc/383fb71f4a76ab2.m3u8
 http://rrelshinta.dens.tv/s/s10/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--LWxcxUvcdA/YaHjY039KPI/AAAAAAAABcY/E4ermZyr5p8615NS2SLDrNu_kg0lgK-wwCLcBGAsYHQ/s0/tIFiAdl.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Digdaya TV" tvg-name="Digdaya TV", Digdaya TV
