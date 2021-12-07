@@ -517,7 +517,7 @@ https://visionplus-stream.visionplus.id/live/eds/VisionPrime/sa_dash_vmx/VisionP
 https://visionplus-stream.visionplus.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-j5YO1Ej1yh0/YansWFj7ifI/AAAAAAAABes/RC8wcpUiAxMFwz_M7Vcw83nMDX_ohqe-ACNcBGAsYHQ/s0/LCBLk2T.png?v=1.0.0.1" group-title="tvN150N" tvg-id="BN TV" tvg-name="BN TV", BN TV
-http://cdn4.mbahnunungonline.net/m3u8/loc/0342607cc601d87.m3u8
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-W8zL_aERK4M/VXH-AEyzP4I/AAAAAAAAEuc/T8eNVqhV3Fw/s1600/BBSTV.png?v=1.0.0.1" group-title="tvN150N" tvg-id="BBS TV" tvg-name="BBS TV", BBS TV
 http://103.119.54.246:8080/hls/bbstv.m3u8
