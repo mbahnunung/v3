@@ -1,7 +1,8 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:100
-#EXTINF:25,
-http://202.150.172.34:4000/play/metrotvhdt2
-#EXTINF:50,
-http://202.150.172.34:4000/play/metrotvhdt2
-#EXT-X-ENDLIST
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=282000,RESOLUTION=284x160
+https://cp.medcom.id/live-edge/smil:medcom.smil/chunklist_w10316879_b282000_sleng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=464000,RESOLUTION=426x240
+https://cp.medcom.id/live-edge/smil:medcom.smil/chunklist_w10316879_b464000_sleng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=878000,RESOLUTION=640x360
+https://cp.medcom.id/live-edge/smil:medcom.smil/chunklist_w10316879_b878000_sleng.m3u8
