@@ -12,7 +12,7 @@
         version: 2,
         sid: 1,
         statsPath: 'stats',
-        directStreamURL: 'https://www.rcast.net/proxy/159652.mp3',
+        directStreamURL: 'https://ssg.streamingmurah.com:9560/rbt',
         autoUpdate: true,
         autoPlay: true,
         betaProxies: true,
