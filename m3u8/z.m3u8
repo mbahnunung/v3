@@ -39,7 +39,7 @@ http://bit.ly/cdd283c9d3d43b5?kano.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-t3asv7jsCvs/YaHc5gPfqqI/AAAAAAAABbw/GsSBj56alWo4hiqDlBLRK7M2F55R0o6BACLcBGAsYHQ/s0/lQMICXV.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Trans TV" tvg-name="Trans TV", TransTV
-http://bit.ly/61061784f4a9271?kano.m3u8
+https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
