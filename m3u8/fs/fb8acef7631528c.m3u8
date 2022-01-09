@@ -8,3 +8,5 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=900000,NAME="360p"
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=600000,NAME="240p"
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b600000_t64MjQwcA==.m3u8
