@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2352000
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2288000
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=906000
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b906000.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=356000
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b356000.m3u8
