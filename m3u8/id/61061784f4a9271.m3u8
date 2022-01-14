@@ -1,2 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1727459,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x480
 https://cubmu.superzap.xyz:8279/transtv/playlist.m3u8
