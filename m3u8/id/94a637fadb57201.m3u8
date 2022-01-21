@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1594149,CODECS="avc1.100.30,mp4a.40.2",RESOLUTION=785x576
-https://stream.ninmedia.tv/popmusik/udp.stream/chunklist_w2005946627.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=773870,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=490x360
+https://stream.ninmedia.tv/popmusik/udp.stream_360p/chunklist_w176140401.m3u8
