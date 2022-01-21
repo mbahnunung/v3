@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1989666,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1308x720
+https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1499000/chunklist.m3u8
