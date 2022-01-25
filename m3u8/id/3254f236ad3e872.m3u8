@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=553984,RESOLUTION=640x360,CODECS="avc1.42c01f,mp4a.40.2"
-https://v2.siar.us/dutatv/live/chunks.m3u8
+https://dutatv.siar.us/dutatv/live/chunks.m3u8
