@@ -1,10 +1,8 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2352000
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2288000
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=906000
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b906000.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=356000
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b356000.m3u8
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1096000,RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=846000,RESOLUTION=960x540,CLOSED-CAPTIONS=NONE
+https://b1english.beritasatumedia.com/Beritasatu/B1English_960x540.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=396000,RESOLUTION=425x250,CLOSED-CAPTIONS=NONE
+https://b1english.beritasatumedia.com/Beritasatu/B1English_320x240.m3u8
