@@ -3,9 +3,9 @@
         // please add your options (host, port, version, etc..)
         // read the docs for more available options
         $.kast({
-        host: '206.190.130.182',
-        port: 8142,
-        protocol: 'http',
+        host: 'ssg.streamingmurah.com',
+        port: 9560,
+        protocol: 'https',
         version: 2, // SHOUTcast Version @integer
         sid: 1, // Server stream ID (If you have multiple SHOUTcast V2 stations) @integer
         statsPath: 'stats', // Path to stats @string
