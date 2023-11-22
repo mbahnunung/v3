@@ -1,5 +1,5 @@
-@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
-@import url('//fonts.googleapis.com/css?family=Roboto+Condensed:400,700');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700');
 
 .myPlayer {
   font-family: 'Roboto', Arial, Helvetica, sans-serif; 
@@ -31,7 +31,8 @@
 .myPlayer .artwork {
 	width: 340px;
 	height: 340px;
-	background: #000;
+	background: url(../img/logo.jpg);
+	background-size: 100% 100%;
 	-webkit-box-shadow: 4px 6px 30px 0px rgba(0,0,0,0.7);
 	-moz-box-shadow: 4px 6px 30px 0px rgba(0,0,0,0.7);
 	box-shadow: 4px 6px 30px 0px rgba(0,0,0,0.7);
@@ -50,19 +51,19 @@
 	top: 0;
 }
 .myPlayer .now-playing {
-	font-size: 18px;
-	color: rgba(254,0,0);
+	font-size: 25px;
+	color: #f46e27;
 	margin-top: 26px;
 }
 .myPlayer .songtitle {
-	font-size: 24px;
+	font-size: 22px;
 	color: rgba(255,255,255,.7);
 	text-transform: capitalize;
 	margin-top: 14px;
 }
 .myPlayer .artist-name {
-	font-size: 32px;	
-	color: rgba(255,255,255,1);
+	font-size: 28px;	
+	color: rgb(255,255,255);
 	text-transform: capitalize;
 	margin-top: 30px;
 }
@@ -183,7 +184,7 @@ footer .menu li a:hover {
 .myPlayer input[type=range] {
 	max-width: 300px;
 	height: 4px;
-	background: #2096cd;
+	background: #f46e27;
 	padding: 2px 0px 2px 0px;
 	-webkit-appearance: none;
 	cursor: pointer;
@@ -415,3 +416,5 @@ footer .menu li a:hover {
 	top: 0;
 	right: 0;
 }
+
+
