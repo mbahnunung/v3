@@ -12,7 +12,7 @@
 			type: "/;type=mp3",
             streampath: "/stream?icy=http",
 			enable_cors: false,
-			cors: "https://shoutcastapps.herokuapp.com",
+			cors: "https://plugstream.herokuapp.com/",
 			artwork: true,
             logo: "https://avatars1.githubusercontent.com/u/18173091?s=460&v=4",
 			vertical_layout: false,
