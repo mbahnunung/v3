@@ -59,7 +59,7 @@ body {
     margin: auto;
     background: url('https://warningfm.github.io/v3/img/bg_cover.jpg') no-repeat;
     background-size: cover;
-    border: 1px solid #ff0000;
+    border: 1px solid #fefefe;
     box-shadow: 0px 5px 10px 3px rgba(0, 0, 0, 0.4);
     transition: background-image 1s;
     border-radius: 10px;
@@ -298,7 +298,7 @@ input[type=range]::-ms-thumb {
     border-radius: 10px;
     background: url('https://warningfm.github.io/v3/img/bg_cover.jpg') no-repeat;
     background-size: cover;
-    border: 1px solid #ff0000;
+    border: 1px solid #fefefe;
     box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.3);
     transition: background-image 1s;
 }
