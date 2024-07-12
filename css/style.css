@@ -55,7 +55,8 @@ body {
 }
 
 .cover-album {
-    max-width: 80%;
+    max-width: 320px;
+    max-height: 320px;
     margin: auto;
     background: url('https://warningfm.github.io/v3/img/bg_cover.jpg') no-repeat;
     background-size: cover;
