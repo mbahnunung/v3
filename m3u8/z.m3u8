@@ -15,7 +15,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ3knJAZkeGLlpAn7Xf-qx3iUkRZIpRk3_KQtdCClGJVWijAO_V6rHS1a7qkKcspqsUsUMibMh6cToud8L9xtAe48NyuhMYBDgm1DngaulA1dZbK5yHgZ2x5niqhnmUt-MHrZo6JmTZmP_i9p7PffI-Fkc9hEn8Kjfn94JaMcrixxh2Ye6qcLq0ZBl5U7o/s1600/cAvYUMa.png?v=1.1.1.1" group-title="🇮🇩 tvN150N" ch-number="3" tvg-id="MNCTV.id" tvg-name="MNCTV", MNCTV
-https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd|Referer=https://www.visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1wdgo7sbZ5t1FM8uEYqGqTmoVxt2Sv14HuP249fqtawV7kK9KwfDJ4ExrAez6NHPNAfwRThiLWD4YUHGkDtQqHJ1K9jRGPK7p7GJAQbWcSkwC1txtCJ7ek7mKXnbyAiY863uZUMQxeKrVgXq-y993MrC5oBzhe-W_Uf30g0QMx_05I_LD1M-vw8DHpAj1/s1600/sdrwEQf.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="4" tvg-id="ANTV.my.id" tvg-name="ANTV", ANTV
@@ -37,7 +37,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/cdd283c9d3d43b5.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqF5l-nAoIL_NClmaypTIPULQmyXNMKPwIkWVsk5AxmfRVVkJN15JoYiYVVsL-4yJkEvaAd8kev6nGI8EdfpEYwrbfyE7XzCjyCg0tv5ce6x9VXlNjSI2Rx2_WFZZGji8gUsjjziWURAlcLxVfCrh_tBZBSaCCPqJt5wUjhS9C6NDi091OHB_ZEj-RXk5H/s1600/AySErC1.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="8" tvg-id="TransTV.id" tvg-name="Trans TV", TransTV
-https://cempedak-cdn-fly.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd|Referer=https://www.visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash/TransTV-2.mpd|Referer=https://www.visionplus.id
 #http://khano.nng.cloudns.us/live/m3u8/id/61061784f4a9270.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
