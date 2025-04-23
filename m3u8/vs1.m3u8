@@ -654,7 +654,7 @@ https://otttv.co.in/d2h/livestream/music-india/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zoom/drmLicense
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/zl6KXD2.png?v=8.8.4.4" group-title="Music" tvg-id="5677" tvg-name="Zoom TV", Zoom TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/zl6KXD2.png?v=8.8.4.4" group-title="Music" tvg-id="Zoom.in" tvg-name="Zoom.in", Zoom TV
 https://otttv.co.in/d2h/livestream/zoom/manifest.mpd 
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1" group-title="Music" tvg-id="mic" tvg-name="Music Information Channel", MIC
