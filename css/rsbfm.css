@@ -1,6 +1,6 @@
 @charset 'utf-8';
 @import url('https://fonts.googleapis.com/css?family=Share:400i,700i');
-@import url('https://warningfm.github.io/v3/css/bootstrap.min.css');
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css');
 
 html, body {
     height: 100%;
@@ -14,15 +14,15 @@ body {
 }
 
 .cover-site {
-	min-width: 100%;
-	min-height: 100%;
-	position: fixed;
-	background: url('https://raw.githubusercontent.com/mbahnunung/v3/kn/img/Suara-Banyuwangi-FM.png') no-repeat;
-	background-position: center;
-	background-size: cover;
-	transition: background-image 1s;
-	background-position: center;
-	background-attachment: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    position: fixed;
+    background: url('https://warningfm.github.io/v3/img/zN5RTkh.png') no-repeat;
+    background-position: center;
+    background-size: cover;
+    transition: background-image 1s;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 #bgCover {
@@ -47,7 +47,7 @@ body {
 
 .web-player {
     height: 100%;
-    color: #ffffff;
+    color: #fff;
     padding: 5px;
     position: relative;
     z-index: 3;
@@ -55,27 +55,28 @@ body {
 }
 
 .cover-album {
-    max-width: 80%;
+    max-width: 320px;
+    max-height: 320px;
     margin: auto;
-    background: url('https://cdn4.mbahnunungonline.net/img/sbradio.png') no-repeat;
+    background: url('https://warningfm.github.io/v3/img/xPdfeAm.png') no-repeat;
     background-size: cover;
-    border: 1px solid #0000ff;
-    border-radius: 10px;
+    border: 1px solid #ff0000;
     box-shadow: 0px 5px 10px 3px rgba(0, 0, 0, 0.4);
     transition: background-image 1s;
+    border-radius: 10px;
     margin-bottom: 15px;
 }
 
 .watermark {
-	width: 89px;
-	height: 35px; 
-	background: url(https://cdn4.mbahnunungonline.net/img/nano.png) no-repeat;
-	background-size: auto 35px;
-	opacity: 0.5;
-	position: relative;
-	bottom: 36px;
-	right: -1px;
-	z-index: 5;
+    width: 89px;
+    height: 35px;
+    background: url(https://raw.githubusercontent.com/warningfm/sbr/main/img/Lzgfwg7.png) no-repeat;
+    background-size: auto 35px;
+    opacity: 0.5;
+    position: relative;
+    bottom: 36px;
+    right: -1px;
+    z-index: 5;
 }
 
 #currentCoverArt {
@@ -102,12 +103,12 @@ body {
     text-transform: uppercase;
     font-weight: 800;
     margin: 0 0 .0125em;
-    text-shadow: 2px 2px #303030;
+	text-shadow: 2px 2px #303030;
 }
 .info-current-song h3 {
     font-size: 1rem;   
     font-weight: 600;
-    text-shadow: 2px 2px #303030;
+	text-shadow: 2px 2px #303030;
 }
 
 .current-song {
@@ -125,7 +126,7 @@ body {
 }
 
 .play-pause i {
-    color: rgb(0,0,255)!important;
+    cursor: pointer;
 }
 
 .volume-icon {
@@ -143,43 +144,49 @@ body {
 }
 
 .vagalume a {
-    color: #fff;
+    color: #fefefe;
     text-decoration: underline;
 }
 
 .lyrics {
     text-transform: uppercase;
-    text-decoration: underline;
-    color: #fff;
+    text-decoration: none;
+    color: #fefefe;
     font-size: 1em;
     font-weight: 400;
     outline: none;
     transition: .3s;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 .lyrics:active {
     text-decoration: none;
-    color: #fff;
+    color: #fefefe;
 }
 
 .lyrics:visited {
     text-decoration: none;
-    color: #fff;
+    color: #fefefe;
 }
 
 .modal-content {
     background-color: rgba(0, 0, 0, 0.8);
-    color: #fff !important;
-    border-radius: 0;
+    color: #fefefe !important;
+    border-radius: 20px;
 }
 
 .modal-content .btn {
-    border-radius: 0;
+    border-radius: 20px;
+    background-color: #00E1E7;
 }
+
+.hidden {
+    display: none; 
+  }
 
 /* Chrome */
 input[type=range] {
-    -webkit-appearance: none;
+    appearance: none;
     background: transparent;
     width: 100%;
 }
@@ -192,9 +199,9 @@ input[type=range]::-webkit-slider-runnable-track {
     width: 100%;
     height: 5px;
     cursor: pointer;
-    animate: 0.2s;
+    animation: 0.2s;
     box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
-    background: #fff;
+    background: #fefefe;
 }
 
 input[type=range]::-webkit-slider-thumb {
@@ -213,9 +220,9 @@ input[type=range]::-moz-range-track {
     width: 100%;
     height: 5px;
     cursor: pointer;
-    animate: 0.2s;
+    animation: 0.2s;
     box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
-    background: #fff;
+    background: #fefefe;
 }
 
 input[type=range]::-moz-range-thumb {
@@ -233,7 +240,7 @@ input[type=range]::-ms-track {
     width: 100%;
     height: 5px;
     cursor: pointer;
-    animate: 0.2s;
+    animation: 0.2s;
     background: transparent;
     border-color: transparent;
     border-width: 10px 0;
@@ -242,13 +249,13 @@ input[type=range]::-ms-track {
 }
 
 input[type=range]::-ms-fill-lower {
-    background: #fff;
+    background: #fefefe;
     border: 0px solid #000101;
     box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
 }
 
 input[type=range]::-ms-fill-upper {
-    background: #fff;
+    background: #fefefe;
     border: 0px solid #000101;
     box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
 }
@@ -259,49 +266,60 @@ input[type=range]::-ms-thumb {
     height: 20px;
     width: 20px;
     border-radius: 50%;
-    background: #fff;
+    background: #fefefe;
     cursor: pointer;
 }
 
 .historic h2 {
-    color: #0090ff; 
-    font-family: poppins,sans-serif;
-    border-bottom: 3px solid #fff;
-    font-size: 16px;
+    color: #0090ff;
+    border-bottom: 2px solid #fefefe;
+    font-size: 18px;
     font-weight: bold;
     text-transform: Letter case;
     margin: 10px 0;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
+
+/* BACKGROUND AREA PLAYED SONGS */
 
 .historic article {
     margin: 5px 0;
+    padding: 10px;
+    background-color: none;
 }
 
-.historic .cover-historic {
-    width: 95px;
-    height: 95px;
+.historic .cover-historic { 
+    max-width: 95px;
+    max-height: 95px;
+    min-width: 70px;
+    min-height: 70px;
     margin-right: 15px;
     float: left;
-    background: url('https://cdn4.mbahnunungonline.net/img/sbradio.png') no-repeat;
-    background-size: cover;
-    border: 1px solid #0000ff;
     border-radius: 10px;
+    background: url('https://warningfm.github.io/v3/img/xPdfeAm.png') no-repeat;
+    background-size: cover;
+    border: 1px solid #ff0000;
     box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.3);
     transition: background-image 1s;
 }
 
+/* COLOR TEXT INFO ARTIST */
 .historic .music-info {
     color: white;
     font-family: 'Poppins', sans-serif;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
+
+/* SONG TEXT COLOR */
+
 .historic .music-info .song {
     width: 100%;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 20px;
     text-transform: uppercase;
     margin-bottom: -5px;
     color: white;
-    text-shadow: 2px 2px #303030;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 @media(max-width: 370px) {
@@ -355,11 +373,46 @@ input[type=range]::-ms-thumb {
     }
 
     .info-current-song {
-        margin-top: 50px;
+        margin-top: 20px;
         text-align: left;
     }
 
     .volume-control {
         margin-top: 10%;
     }
+}
+
+#buttonPlay {
+    padding-left: 10px;
+}
+#playerButton {
+    color: rgba(221,81,16,1);
+}
+.play-pause i {
+    cursor: pointer;
+}
+.btn-play {
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 10px 20px; /* Reducing padding */
+    font-size: 14px; /* Reducing font size */
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 20px;
+    width: auto; /* Largura automÃ¡tica */
+    transition: transform .2s;
+    box-shadow: 1px 3px #30303022;
+}
+
+.btn-play:focus {outline:0;}
+
+.btn-play:hover {
+    box-shadow: 1px 5px #30303022;
+    transform: scale(1.1);
+}
+
+.close{
+    color: white;
+
 }
