@@ -17,7 +17,7 @@ body {
     min-width: 100%;
     min-height: 100%;
     position: fixed;
-    background: url('https://warningfm.github.io/v3/img/zN5RTkh.png') no-repeat;
+    background: url('https://live.staticflickr.com/65535/53485963763_80fcebd0bb_b.jpg') no-repeat;
     background-position: center;
     background-size: cover;
     transition: background-image 1s;
@@ -60,7 +60,7 @@ body {
     margin: auto;
     background: url('https://warningfm.github.io/v3/img/xPdfeAm.png') no-repeat;
     background-size: cover;
-    border: 1px solid #ff0000;
+    border: 1px solid #000000;
     box-shadow: 0px 5px 10px 3px rgba(0, 0, 0, 0.4);
     transition: background-image 1s;
     border-radius: 10px;
