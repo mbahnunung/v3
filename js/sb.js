@@ -159,7 +159,7 @@ function Page() {
             else if (artist == 'Egha De Latoya') {var urlCoverArt = EghaLatoya;}
             else if (artist == 'Gamel Awan') {var urlCoverArt = GamelAwan;}
             else if (artist == 'Cassandra') {var urlCoverArt = Cassandra;}
-            else if (artist == 'Dhika Resta') {var urlCoverArt = Dhika_Resta;}
+            else if (artist == 'DHIKA RESTA') {var urlCoverArt = Dhika_Resta;}
             else if (artist == 'Rozy Abdillah') {var urlCoverArt = Rozy;} 
             else if (artist == 'Reny Farida') {var urlCoverArt = Reny;} 
             else if (artist == 'Kurnia Dewi') {var urlCoverArt = Kurnia_Dewi;} 
@@ -174,7 +174,7 @@ function Page() {
             else if (artist == 'Vita Alvia') {var urlCoverArt = Vita;} 
             else if (artist == 'Melinda Varera') {var urlCoverArt = Melinda_Varera;} 
             else if (artist == 'UCAPAN OPENING') {var urlCoverArt = UCAPAN_OPENING;} 
-            else if (artist == 'Iklan') {var urlCoverArt = IKLAN;} 
+            else if (artist == 'IKLAN') {var urlCoverArt = IKLAN;} 
         // Default cover art
         else {var urlCoverArt = DEFAULT_COVER_ART;}
         
