@@ -120,7 +120,7 @@ function Page() {
         const Lusiana = 'https://thumbs2.imgbox.com/da/bd/1aijXmkg_t.jpg'; 
         const Suliyana = 'https://i.scdn.co/image/ab67616d0000b2733e4c6986797db1877c5be37d';
         const Syahiba = 'https://i.scdn.co/image/ab67616d0000b27378fdcad5374c66bd8f7321c5'; 
-        const OmpRock = 'https://i1.sndcdn.com/artworks-000069866100-96taaq-t500x500.jpg';
+        const TOP_NEWS = 'https://yt3.googleusercontent.com/5igbUX2hqYwRAW2eQMcGdoC9hfjMVeKXhbpB-syB4LQ-bzBtla7OMfEE1faIdgfWnM9oRlPc-w=s900-c-k-c0x00ffffff-no-rj';
         const Virgia_Hassan = 'https://i.ytimg.com/vi/g3A7Cp2yAro/maxresdefault.jpg';
         const Vita = 'https://live.staticflickr.com/65535/53458574431_71955797d8_z.jpg';
         const Melinda_Varera = 'https://i.scdn.co/image/ab67616d0000b2739e8575dbb9c92a4f3984a811';
@@ -169,7 +169,7 @@ function Page() {
             else if (artist == 'Lusiana Safara') {var urlCoverArt = Lusiana;} 
             else if (artist == 'Suliyana') {var urlCoverArt = Suliyana;} 
             else if (artist == 'Syahiba Saufa') {var urlCoverArt = Syahiba;} 
-            else if (artist == 'OmpRock') {var urlCoverArt = OmpRock;} 
+            else if (artist == 'TOP NEWS') {var urlCoverArt = TOP_NEWS;} 
             else if (artist == 'Virgia Hassan') {var urlCoverArt = Virgia_Hassan;} 
             else if (artist == 'Vita Alvia') {var urlCoverArt = Vita;} 
             else if (artist == 'Melinda Varera') {var urlCoverArt = Melinda_Varera;} 
