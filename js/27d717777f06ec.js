@@ -6,13 +6,13 @@
 // =============================================== //
 
     $.kast({
-        host: 'live.sg.radiobintangtenggara.com',
-        port: 9560,
+        host: 'asv.alhastream.com',
+        port: 3310,
         protocol: 'http',
         version: 1,
         //sid: 1,
         statsPath: 'stats',
-        directStreamURL: 'https://ssg.streamingmurah.com:9560/rbt',
+        directStreamURL: 'https://asv.alhastream.com:3310/rbtfm',
         autoUpdate: true,
         autoPlay: true,
         betaProxies: true,
