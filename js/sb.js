@@ -10,7 +10,7 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
-const RADIO_NAME = 'Suara Banyuwangi FM';
+const RADIO_NAME = 'Suara Banyuwangi Live';
 
 // Change Zeno Stream URL Here, .
 const URL_STREAMING = 'https://stream.zeno.fm/skk0a2d6sd0uv';
@@ -22,7 +22,7 @@ const url = 'https://api.zeno.fm/mounts/metadata/subscribe/skk0a2d6sd0uv';
 const API_KEY = "18fe07917957c289983464588aabddfb";
 
 // Change DEFAULT COVER
-const DEFAULT_COVER_ART = 'https://cdn4.mbahnunungonline.net/img/wDI5YzU.png';
+const DEFAULT_COVER_ART = 'https://cdn4.mbahnunungonline.net/img/SB_Cover.png';
 
 // Variable to control history display: true = display / false = hides
 let showHistory = true; 
@@ -262,7 +262,7 @@ function Page() {
 
     this.setVolume = function () {
         if (typeof (Storage) !== 'undefined') {
-            var volumeLocalStorage = (!localStorage.getItem('volume')) ? 100 : localStorage.getItem('volume');
+            var volumeLocalStorage = (!localStorage.getItem('volume')) ? 80 : localStorage.getItem('volume');
             document.getElementById('volume').value = volumeLocalStorage;
             document.getElementById('volIndicator').innerHTML = volumeLocalStorage;
         }
