@@ -3,8 +3,8 @@
         // please add your options (host, port, version, etc..)
         // read the docs for more available options
         $.kast({
-        host: 'ssg.streamingmurah.com',
-        port: 9560,
+        host: 'asv.alhastream.com',
+        port: 3310,
         protocol: 'https',
         version: 2, // SHOUTcast Version @integer
         sid: 1, // Server stream ID (If you have multiple SHOUTcast V2 stations) @integer
